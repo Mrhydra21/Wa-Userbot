@@ -26,16 +26,16 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/itsdzl/Wa-Userbot",
+  "homepage": "https://github.com/Mrhydra21/Wa-Userbot",
   "author": {
-    "name": "itsdzl"
+    "name": "Mrhydra21"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsdzl/Wa-Userbot.git"
+    "url": "git+https://github.com/Mrhydra21/Wa-Userbot.git"
   },
   "bugs": {
-    "url": "https://github.com/itsdzl/Wa-Userbot/issues"
+    "url": "https://github.com/Mrhydra21/Wa-Userbot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
